@@ -21,7 +21,7 @@ navigation: false
                         </div>
                     </div>
                 </div><div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-0">
-                    <img class="w-full max-w-xs mx-auto lg:max-w-lg xl:max-w-xl" src="https://landingfoliocom.imgix.net/store/collection/dusk/images/hero/1/3d-illustration.png" alt="" />
+                    <img class="w-full max-w-xs mx-auto lg:max-w-lg xl:max-w-xl" src="/WhatsApp Image 2025-08-01 at 22.26.08_62f23295.jpg" alt="" />
                 </div>
             </div>
         </div>
