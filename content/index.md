@@ -3,131 +3,27 @@ title: Home
 navigation: false
 ---
 
-<!-- HTML block for hero section -->
-<div class="relative pt-48 pb-12 bg-black xl:pt-60 sm:pb-16 lg:pb-32 xl:pb-48 2xl:pb-56">
-    <header class="absolute inset-x-0 top-0 z-10 py-8 xl:py-12">
-        <div class="px-6 mx-auto sm:px-8 lg:px-12 max-w-7xl">
-            <div class="flex items-center justify-between">
-                <div class="flex flex-shrink-0">
-                    <a href="#" title="BakerStreet" class="inline-flex rounded-md focus:outline-none focus:ring-2 focus:ring-offset-4 focus:ring-offset-secondary focus:ring-primary">
-                        <img class="w-auto h-8" src="https://cdn.rareblocks.xyz/collection/bakerstreet/images/logo.svg" alt="BakerStreet" />
-                    </a>
-                </div>
-                <div class="md:hidden">
-                    <button type="button" class="p-2 -m-2 transition-all duration-200 rounded-full text-white focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-primary focus:ring-offset-secondary">
-                        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                    </button>
-                </div>
-                <div class="hidden md:flex md:items-center md:space-x-10 lg:ml-28">
-                    <a href="#" title="" class="font-sans text-base font-normal transition-all duration-200 rounded text-white focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-primary focus:ring-offset-secondary"> Courses </a>
-                    <a
-                        href="#"
-                        title=""
-                        class="
-                            inline-flex
-                            items-center
-                            justify-center
-                            px-5
-                            py-2
-                            font-sans
-                            text-base
-                            font-normal
-                            leading-7
-                            transition-all
-                            duration-200
-                            border-2
-                            rounded-full
-                            text-white
-                            border-primary
-                            focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-primary
-                            hover:bg-white hover:text-black
-                            focus:ring-offset-secondary
-                        "
-                    >
-                        Sign Up
-                    </a>
+<section class="py-12 bg-black sm:pb-16 lg:pb-20 xl:pb-24">
+        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+            <div class="relative">
+                <div class="lg:w-2/3">
+                    <p class="text-sm font-normal tracking-widest text-gray-300 uppercase">A Hub for Designers, Developers & Marketers</p>
+                    <h1 class="mt-6 text-4xl font-normal text-white sm:mt-10 sm:text-5xl lg:text-6xl xl:text-8xl"><span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500">Unlimited Design</span> Inspiration</h1>
+                    <p class="max-w-lg mt-4 text-xl font-normal text-gray-400 sm:mt-8">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.</p>
+                    <div class="relative inline-flex items-center justify-center mt-8 sm:mt-12 group">
+                        <div class="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:shadow-lg group-hover:shadow-cyan-500/50"></div>
+                        <a href="#" title="" class="relative inline-flex items-center justify-center px-8 py-3 text-base font-normal text-white bg-black border border-transparent rounded-full" role="button"> Start Exploring Inspiration </a>
+                    </div>
+
+  <div>
+                        <div class="inline-flex items-center pt-6 mt-8 border-t border-gray-800 sm:pt-10 sm:mt-14">
+                            <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg"><path d="M13 7.00003H21M21 7.00003V15M21 7.00003L13 15L9 11L3 17" stroke="url(#a)" stroke-linecap="round" stroke-linejoin="round" /><defs><linearGradient id="a" x1="3" y1="7.00003" x2="22.2956" y2="12.0274" gradientUnits="userSpaceOnUse"><stop offset="0%" style="stop-color: var(--color-cyan-500)" /><stop offset="100%" style="stop-color: var(--color-purple-500)" /></linearGradient></defs></svg><span class="ml-2 text-base font-normal text-white"> 42 new design inspiration was added last week </span>
+                        </div>
+                    </div>
+                </div><div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-0">
+                    <img class="w-full max-w-xs mx-auto lg:max-w-lg xl:max-w-xl" src="https://landingfoliocom.imgix.net/store/collection/dusk/images/hero/1/3d-illustration.png" alt="" />
                 </div>
             </div>
         </div>
-    </header>
-    <div class="absolute inset-0">
-        <img class="object-cover w-full h-full" src="/WhatsApp Image 2025-08-01 at 22.26.08_62f23295.jpg" alt="" />
-    </div>
-    <div class="relative">
-        <div class="px-6 mx-auto sm:px-8 lg:px-12 max-w-7xl">
-            <div class="w-full lg:w-2/3 xl:w-1/2">
-                <h1 class="font-sans text-base font-normal tracking-tight text-white text-opacity-70">Master the basics of baking</h1>
-                <p class="mt-6 tracking-tighter text-white">
-                    <span class="font-sans font-normal text-7xl">The road to the</span><br />
-                    <span class="font-serif italic font-normal text-8xl">perfect loaf</span>
-                </p>
-                <p class="mt-12 font-sans text-base font-normal leading-7 text-white text-opacity-70">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eu penatibus pellentesque dolor consequat ligula egestas massa gravida. Porttitor venenatis enim praesent.</p>
-                <p class="mt-8 font-sans text-xl font-normal text-white">Starting at $9.99/month</p>
-                <div class="flex items-center mt-5 space-x-3 sm:space-x-4">
-                    <a
-                        href="#"
-                        title=""
-                        class="
-                            inline-flex
-                            items-center
-                            justify-center
-                            px-5
-                            py-2
-                            font-sans
-                            text-base
-                            font-semibold
-                            transition-all
-                            duration-200
-                            border-2 border-transparent
-                            rounded-full
-                            sm:leading-8
-                            bg-white
-                            sm:text-lg
-                            text-black
-                            hover:bg-opacity-90
-                            focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary focus:ring-offset-secondary
-                        "
-                        role="button"
-                    >
-                        Get started
-                    </a>
-                    <a
-                        href="#"
-                        title=""
-                        class="
-                            inline-flex
-                            items-center
-                            justify-center
-                            px-5
-                            py-2
-                            font-sans
-                            text-base
-                            font-semibold
-                            transition-all
-                            duration-200
-                            bg-transparent
-                            border-2
-                            rounded-full
-                            sm:leading-8
-                            text-white
-                            border-primary
-                            hover:bg-white
-                            focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary
-                            hover:text-black
-                            sm:text-lg
-                            focus:ring-offset-secondary
-                        "
-                        role="button"
-                    >
-                        <svg class="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.0416 4.9192C7.37507 4.51928 6.5271 4.99939 6.5271 5.77669L6.5271 18.2232C6.5271 19.0005 7.37507 19.4806 8.0416 19.0807L18.4137 12.8574C19.061 12.469 19.061 11.5308 18.4137 11.1424L8.0416 4.9192Z" />
-                        </svg>
-                        Watch trailer
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+    </section>
+
