@@ -3,13 +3,13 @@ title: Home
 navigation: false
 ---
 
-<section class="py-12 bg-stone-400 sm:pb-16 lg:pb-20 xl:pb-24">
+<section class="py-12 bg-stone-700 sm:pb-16 lg:pb-20 xl:pb-24">
     <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div class="relative">
             <div class="lg:w-2/3">
                 <p class="text-sm font-normal tracking-widest text-gray-300 uppercase">A Hub for Designers, Developers & Marketers</p>
                 <h1 class="mt-6 text-4xl font-normal text-white sm:mt-10 sm:text-5xl lg:text-6xl xl:text-8xl">
-                    <span class="text-transparent bg-clip-text">Unlimited Design</span> Inspiration
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500">Unlimited Design</span> Inspiration
                 </h1>
                 <p class="max-w-lg mt-4 text-xl font-normal text-gray-400 sm:mt-8">
                     Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.
@@ -78,5 +78,5 @@ Welcome to Berraca Air BnB, your serene getaway nestled in the heart of Ibadan. 
 
 
 ::div{class="border rounded-lg shadow-md"}
-  :iframe{src="https://checkout.lodgify.com/olamide-toyinbo/701376/reservation?currency=EUR&adults=3" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
+  :iframe{src="https://checkout.lodgify.com/olamide-toyinbo/701376/reservation?currency=EUR&adults=3" height="800" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
 ::
