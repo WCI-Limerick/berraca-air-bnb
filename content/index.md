@@ -78,5 +78,5 @@ Welcome to Berraca Air BnB, your serene getaway nestled in the heart of Ibadan. 
 
 
 ::div{class="border rounded-lg shadow-md"}
-  :iframe{src="https://npreview-olamide-toyinbo.lodgify.com/en/availability" height="500" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
+  :iframe{src="https://checkout.lodgify.com/olamide-toyinbo/701376/reservation?currency=EUR&adults=3" height="500" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
 ::
