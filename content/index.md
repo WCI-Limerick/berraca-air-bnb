@@ -53,7 +53,7 @@ navigation: false
         </div>
     </header>
     <div class="absolute inset-0">
-        <img class="object-cover w-full h-full" src="https://cdn.rareblocks.xyz/collection/bakerstreet/images/hero/3/background.png" alt="" />
+        <img class="object-cover w-full h-full" src="/WhatsApp Image 2025-08-01 at 22.26.08_62f23295.jpg" alt="" />
     </div>
     <div class="relative">
         <div class="px-6 mx-auto sm:px-8 lg:px-12 max-w-7xl">
