@@ -26,7 +26,7 @@ navigation: false
                     </div>
                 </div>
             </div>
-            <div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-[-2rem]"> <!-- moved slightly right -->
+            <div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-[-4rem]"> <!-- moved slightly right -->
                 <img class="w-full max-w-xs mx-auto lg:max-w-lg xl:max-w-xl" src="/WhatsApp Image 2025-08-01 at 22.26.08_62f23295.jpg" alt="" />
             </div>
         </div>
