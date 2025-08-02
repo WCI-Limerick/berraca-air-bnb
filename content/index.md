@@ -3,7 +3,7 @@ title: Home
 navigation: false
 ---
 
-<section class="py-12 bg-black sm:pb-16 lg:pb-20 xl:pb-24">
+<section class="py-12 bg-stone-700 sm:pb-16 lg:pb-20 xl:pb-24">
     <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div class="relative">
             <div class="lg:w-2/3">
@@ -37,9 +37,9 @@ navigation: false
 
 # Berraca Air BnB
 
-:smart-icon{name="lucide:users" :size="50"} 5 Guests
-:smart-icon{name="lucide:bed-double" :size="50"} 3 Bedrooms
-:smart-icon{name="lucide:bath" :size="50"} 3 Bathrooms
+:smart-icon{name="lucide:users" :size="40"} 5 Guests
+:smart-icon{name="lucide:bed-double" :size="40"} 3 Bedrooms
+:smart-icon{name="lucide:bath" :size="40"} 3 Bathrooms
 
 
 Welcome to Berraca Air BnB, your serene getaway nestled in the heart of Ibadan. This charming home offers 3 cozy bedrooms and 2 modern bathrooms, perfect for families or friends seeking comfort and convenience. Enjoy essential amenities like air conditioning for those warm Nigerian days, a washing machine for hassle-free laundry, and a fully equipped kitchen to whip up your favorite meals. Stay connected with our high-speed wireless internet or unwind in the general heating during cooler evenings. Located just moments away from local attractions, Berraca Air BnB promises a memorable stay in Ibadan.
