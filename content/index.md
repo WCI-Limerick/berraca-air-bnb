@@ -34,3 +34,46 @@ navigation: false
 </section>
 
 
+## Berraca Air BnB
+
+:smart-icon{name="stash:people-group-light" :size="50"} 5 Guests
+:smart-icon{name="material-symbols-light:king-bed-rounded" :size="50"} 3 Bedrooms
+:smart-icon{name="fa:bath" :size="50"} 3 Bedrooms
+
+
+Welcome to Berraca Air BnB, your serene getaway nestled in the heart of Ibadan. This charming home offers 3 cozy bedrooms and 2 modern bathrooms, perfect for families or friends seeking comfort and convenience. Enjoy essential amenities like air conditioning for those warm Nigerian days, a washing machine for hassle-free laundry, and a fully equipped kitchen to whip up your favorite meals. Stay connected with our high-speed wireless internet or unwind in the general heating during cooler evenings. Located just moments away from local attractions, Berraca Air BnB promises a memorable stay in Ibadan.
+
+::card-group{:cols="3"}
+  ::card
+  ---
+  title: Components
+  icon: lucide:box
+  to: https://nuxt.com/docs/api/components/client-only
+  target: _blank
+  ---
+  Explore Nuxt built-in components for pages, layouts, head, and more.
+  ::
+
+  ::card
+  ---
+  title: Composables
+  icon: lucide:arrow-right-left
+  to: https://nuxt.com/docs/api/composables/use-app-config
+  target: _blank
+  ---
+  Discover Nuxt composable functions for data-fetching, head management and more.
+  ::
+
+  ::card
+  ---
+  title: Utils
+  icon: lucide:scissors
+  to: https://nuxt.com/docs/api/utils/dollarfetch
+  target: _blank
+  ---
+  Learn about Nuxt utility functions for navigation, error handling and more.
+  ::
+::
+
+
+
